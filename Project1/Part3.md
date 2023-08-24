@@ -1,0 +1,1 @@
+Part3 (important): Write 750 words in a mardown file describing what was hard about this process, how that pain could have been avoided and what practices you are committing to perform in project2 to avoid that pain.
