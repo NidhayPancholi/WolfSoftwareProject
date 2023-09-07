@@ -112,60 +112,59 @@ https://github.com/shahrk/polly/issues/22 |
 | Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests? |  |  |
 
 
-# Project 2
-|Factor|Score|Notes|
-|-----|---------|------------|
-|Video| | |
-|Workload | | | 
-|Number of commits| | |
-|Number of commits: by different people|| | 
-|Issues reports: there are **many**|
-|Issues are being closed|| |
-|DOI badge|| |
-|Docs || |
-|Docs| ||
-|Docs: ||doc page entries|
-|Docs: |||
-|Docs: |||
-|Use of version control tools|||
-|Use of style checkers |||
-|Use of code formatters. |||
-|Use of syntax checkers. |||
-|Use of code coverage |||
-|Other automated analysis tools|||
-|Test cases exist|||
-|Test cases are routinely executed|||
-|The files CONTRIBUTING.md lists coding standards and lots of tips|||
-|Issues are discussed before they are closed|||
-|Chat channel: exists|||
-|Test cases: a large proportion of the issues related to handling failing cases.|||
-|Evidence that the whole team is using the same tools|||
-|Evidence that the members of the team are working across multiple places in the code base|
-|Short release cycles |||
-| Does your website and documentation provide a clear, high-level overview of your software? |  |  |
-| Does your website and documentation clearly describe the type of user who should use your software? |  |  |
-| Do you publish case studies to show how your software has been used by yourself and others? |  |  |
-| Is the name of your project/software unique? |  |  |
-| Is your project/software name free from trademark violations? |  |  |
-| Is your software available as a package that can be deployed without building it? |  |  |
-| Is your software available for free? |  |  |
-| Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository? | 
-| Is your software hosted in an established, third-party repository like GitHub? |  |  |
-| Is your documentation clearly available on your website or within your software? |  |  |
-| Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use? |  |  |
-| If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software? |  |  |
-| Do you provide a comprehensive guide to all your software’s commands, functions and options? |  |  |
-| Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages? |  |  |
-| If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation? |  |  |
-| Do you store your documentation under revision control with your source code? |  |  |
-| Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation? |  |  |
-| Does your software describe how a user can get help with using your software? |  | |
-| Does your website and documentation describe what support, if any, you provide to users and developers? |  |  |
-| Does your project have an e-mail address or forum that is solely for supporting users? |  |  |
-| Are e-mails to your support e-mail address received by more than one person? |  |  |
-| Does your project have a ticketing system to manage bug reports and feature requests? |  |  |
-| Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests? |  |  |
-
+# Recipe Recommender
+| Factor | Score | Notes |
+| --- | --- | --- |
+| Video | 2     | a one minute long video exists                                     |
+| Workload| 2     | enough commits made by all                                         |
+| Number of commits | 2     | satisfactory number of commits                                     |
+| Number of commits: by different people| 2     | commits made by each individual                                    |
+| Issues reports: there are **many** | 1     | not enough issues reported                                         |
+| Issues are being closed  | 3     | all issues have been timely closed                                 |
+| DOI badge| 3     | DOI badges exist                                                   |
+| Docs | 2     | format of docs is clear                                            |
+| Docs: what| 2     | classes/functions described                                        |
+| Docs: how | 0     | doc page entries - no mini-tutorials showing worked examples exist |
+| Docs: why | 2     | docs are convincing enough to motivate user to use the application |
+| Docs: | 0     | no such short video exists                                         |
+| Use of version control tools| 3     | made good use of GitHub                                            |
+| Use of style checkers| 3     | config files exist                                                 |
+| Use of code formatters. | 3     | config files exist                                                 |
+| Use of syntax checkers.| 3     | config files exist                                                 |
+| Use of code coverage| 3     | config files exist                                                 |
+| Other automated analysis tools  | 3     | config files exist                                                 |
+| Test cases exist | 3     | additional test cases were added                                   |
+| Test cases are routinely executed| 2     |                                                                    |
+| The files [CONTRIBUTING.md](http://contributing.md/) lists coding standards and lots of tips | 3     | the file good tips on how to extend the system|
+| Issues are discussed before they are closed | 2     |                                                                    |
+| Chat channel: exists | 3     | use of discord and whatsapp                                        |
+| Test cases: a large proportion of the issues related to handling failing cases.| 2     |                                     |
+| Evidence that the whole team is using the same tools| 3     |                                               |
+| Evidence that the members of the team are working across multiple places in the code base| 3     |                                                   |
+| Short release cycles | 3     |                                                                    |
+| Does your website and documentation provide a clear, high-level overview of your software? | 3 |           |
+| Does your website and documentation clearly describe the type of user who should use your software?| 3     | targeted user has been described    |
+| Do you publish case studies to show how your software has been used by yourself and others? |       |                                            |
+| Is the name of your project/software unique? | 1     | project name not very unique                                       |
+| Is your project/software name free from trademark violations?  |       |                                                                    |
+| Is your software available as a package that can be deployed without building it? | 3     |                         |
+| Is your software available for free?    | 3     | software is available for free                                     |
+| Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository? | 3     | source code available to download                                  |
+| Is your software hosted in an established, third-party repository like GitHub?| 3     |                                                |
+| Is your documentation clearly available on your website or within your software?| 3     | documentation is available clearly             |
+| Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?   | 3     | user guide is included                                             |
+| If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?              | 3     |                                                                    |
+| Do you provide a comprehensive guide to all your software’s commands, functions and options?                                                         | 3     | docs exist                                                         |
+| Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?                   | 0     | no such doc found                                                  |
+| If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?                     |       |                                                                    |
+| Do you store your documentation under revision control with your source code?                                                                        | 3     |                                                                    |
+| Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation? | 3     |                                                                    |
+| Does your software describe how a user can get help with using your software?                                                                        | 3     |                                                                    |
+| Does your website and documentation describe what support, if any, you provide to users and developers?                                              | 0     | no support services mentioned                                      |
+| Does your project have an e-mail address or forum that is solely for supporting users?                                                               | 0     | no such email address exists                                       |
+| Are e-mails to your support e-mail address received by more than one person?                                                                         | 0     |                                                                    |
+| Does your project have a ticketing system to manage bug reports and feature requests?                                                                |       |                                                                    |
+| Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?                                |       |                                                                    |
 
 
 # Project 2
