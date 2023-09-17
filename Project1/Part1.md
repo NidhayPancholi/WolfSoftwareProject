@@ -166,7 +166,7 @@ https://github.com/shahrk/polly/issues/22 |
 | Does your project have a ticketing system to manage bug reports and feature requests?                                                                |       |                                                                    |
 | Is your project's ticketing system publicly visible to your users so that they can view bug reports and feature requests?                                |       |                                                                    |
 
-#Slash2021 Rohan
+# Slash2021 Rohan
 | Factor | Score | Notes |
 | --- | --- | --- |
 | Video | 2 | New features not shown properly in video  |
@@ -196,10 +196,9 @@ https://github.com/shahrk/polly/issues/22 |
 | Evidence that the whole team is using the same tools | 3 |  |
 | Evidence that the members of the team are working across multiple places in the code base | 2 |  |
 | Short release cycles | 3 |  |
-| Does your website and documentation provide a clear, high-level overview of your software? | 
-    2 |  |
+| Does your website and documentation provide a clear, high-level overview of your software? | 2 |  |
 | Does your website and documentation clearly describe the type of user who should use your software? | 3 |  |
- Do you publish case studies to show how your software has been used by yourself and others? | 3 |  |
+| Do you publish case studies to show how your software has been used by yourself and others? | 3 |  |
 | Is the name of your project/software unique? | 1 |  |
 | Is your project/software name free from trademark violations? | 2 |  |
 | Is your software available as a package that can be deployed without building it? | 3 |  |
@@ -221,7 +220,7 @@ https://github.com/shahrk/polly/issues/22 |
 | Does your project have a ticketing system to manage bug reports and feature requests? | 3 |  |
 | Is your project's ticketing system publicly visible to your users so that they can view bug reports and feature requests? | 3 |  |
 
-#Slash group 7
+# Slash group 7
 | Factor | Score | Notes |
 | Video | 1 | New features not shown properly in video and no audio  |
 | Workload | 3 |  |
