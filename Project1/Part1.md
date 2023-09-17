@@ -167,14 +167,14 @@ https://github.com/shahrk/polly/issues/22 |
 | Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?                                |       |                                                                    |
 
 #Slash2021 Rohan
-    | Factor | Score | Notes |
-    | --- | --- | --- |
-    | Video | 2 | New features not shown properly in video  |
-    | Workload | 2 |  |
-    | Number of commits | 1 | limited no of commits |
-    | Number of commits: by different people | 2 |  |
-    | Issues reports: there are many | 2 | limited number of issues |
-    | Issues are being closed | 2 | 4/14 issues not solved |
+| Factor | Score | Notes |
+| --- | --- | --- |
+| Video | 2 | New features not shown properly in video  |
+| Workload | 2 |  |
+| Number of commits | 1 | limited no of commits |
+                                                        | Number of commits: by different people | 2 |  |
+                                                        | Issues reports: there are many | 2 | limited number of issues |
+                                                        | Issues are being closed | 2 | 4/14 issues not solved |
     | DOI badge | 3 |  |
     | Docs: format | 3 |  |
     | Docs: description  | 2 |  |
