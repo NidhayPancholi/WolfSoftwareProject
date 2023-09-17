@@ -167,7 +167,6 @@ https://github.com/shahrk/polly/issues/22 |
 | Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?                                |       |                                                                    |
 
 #Slash2021 Rohan
-    
     | Factor | Score | Notes |
     | --- | --- | --- |
     | Video | 2 | New features not shown properly in video  |
@@ -223,7 +222,8 @@ https://github.com/shahrk/polly/issues/22 |
     | Is your project's ticketing system publicly visible to your users so that they can view bug reports and feature requests? | 3 |  |
 
 #Slash group 7
-| Video | 1 | new features not shown properly in video and no audio  |
+| Factor | Score | Notes |
+| Video | 1 | New features not shown properly in video and no audio  |
 | Workload | 3 |  |
 | Number of commits | 2 | limited no of commits |
 | Number of commits: by different people | 3 |  |
@@ -240,10 +240,10 @@ https://github.com/shahrk/polly/issues/22 |
 | Use of code formatters. | 3 |  |
 | Use of syntax checkers. | 3 |  |
 | Use of code coverage | 3 |  |
-| Other automated analysis tools | 2 | only used streamlit |
+| Other automated analysis tools | 2 | only used stream lit |
 | Test cases exist | 3 | whole another file for test cases |
 | Test cases are routinely executed | 3 | yes |
-| The files http://contributing.md/ lists coding standards and lots of tips | 3 | detailed mark down |
+| The files http://contributing.md/ lists coding standards and lots of tips | 3 | detailed markdown |
 | Issues are discussed before they are closed | 3 |  |
 | Chat channel: exists | 3 |  |
 | Test cases: a large proportion of the issues related to handling failing cases. | 3 |  |
