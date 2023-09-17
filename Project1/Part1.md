@@ -222,6 +222,7 @@ https://github.com/shahrk/polly/issues/22 |
 
 # Slash group 7
 | Factor | Score | Notes |
+| --- | --- | --- |
 | Video | 1 | New features not shown properly in video and no audio  |
 | Workload | 3 |  |
 | Number of commits | 2 | limited no of commits |
